@@ -45,7 +45,7 @@
 |---|---|---|
 | [**Kapsul**](https://github.com/ColineRbm/Kapsul) | App de suivi budgétaire personnelle — dark mode, responsive, graphiques | JS vanilla · Chart.js · localStorage |
 | [**ERA**](https://github.com/ColineRbm/ERA) | Hackathon 48h — app de voyage historique · j'ai développé le composant Timeline | React · TypeScript · Vite |
-| [**TeamUp-front**](https://github.com/ColineRbm/TeamUp-front) | Projet de groupe — app pour trouver des partenaires sportifs · j'ai développé la page profil et les composants RecentActivity, Skills | React · TypeScript |
+| [**TeamUp-front**](https://github.com/ColineRbm/TeamUp-front) | Projet de groupe — app pour trouver des partenaires sportifs | React · TypeScript |
 | [**TeamUp-back**](https://github.com/ColineRbm/TeamUp-back) | Projet de groupe — API REST pour TeamUp | Node.js · MySQL |
 | [**Portfolio**](https://colinerbm.github.io/portfolio/) | Mon portfolio — en cours de développement | React · TypeScript |
 
