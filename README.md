@@ -36,13 +36,15 @@
 
 ---
 
-## | Projet | Description | Stack |
+## Projets
+
+| Projet | Description | Stack |
 |---|---|---|
 | [**Kapsul**](https://github.com/ColineRbm/Kapsul) | App de suivi budgétaire personnelle — dark mode, responsive, graphiques | JS vanilla · Chart.js · localStorage |
 | [**ERA**](https://github.com/ColineRbm/ERA) | Projet de groupe — app de voyage historique · j'ai développé le composant Timeline | React · TypeScript · Vite |
 | [**TeamUp-front**](https://github.com/ColineRbm/TeamUp-front) | Projet de groupe — app de suivi d'activités sportives · j'ai développé la page profil et les composants RecentActivity, Skills | React · TypeScript |
 | [**TeamUp-back**](https://github.com/ColineRbm/TeamUp-back) | Projet de groupe — API REST pour TeamUp | Node.js · MySQL |
-| [**Portfolio**](https://ColineRbm.github.io/portfolio) | Mon portfolio — en cours de développement | React · TypeScript |
+| [**Portfolio**](https://colinerbm.github.io/portfolio/) | Mon portfolio — en cours de développement | React · TypeScript |
 
 ---
 
@@ -50,5 +52,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coline-rabemihoatra/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://colinerbm.github.io/portfolio/)
+[![Gmail](https://img.shields.io/badge/coline.rbm@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:coline.rbm@gmail.com)
 
 *Disponible pour une alternance à partir du 15 septembre 2026 · Lille · Bordeaux · Lyon · Marseille · Porto/Lisboa (Portugal) · remote envisageable*
