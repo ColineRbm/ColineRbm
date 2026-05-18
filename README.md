@@ -1,4 +1,4 @@
-# Coline — Développeuse web full-stack
+# Coline — Développeuse full-stack
 
 > Profil hybride **finance × tech** · En formation @ Wild Code School · Lille, France
 
@@ -8,7 +8,7 @@
 
 | Avant | Maintenant |
 |---|---|
-| 9 ans en analyse financière & data au sein du **Groupe Crédit Agricole** — ratios prudentiels (Bâle III, COREP/FINREP), consolidation, pilotage data, management d'équipe. Toujours attirée par la partie technique du métier : modélisation, extraction, automatisation. C'est ce fil qui m'a menée au code. | Bootcamp full-stack intensif (fév–juil 2026). React, TypeScript, SQL, Node.js. Python en autodidacte, parce que ça m'intéresse vraiment. **Alternance recherchée à partir de septembre 2026.** |
+| 9 ans en analyse financière & data au sein du **Groupe Crédit Agricole** — ratios prudentiels (Bâle III, COREP/LDT), consolidation, pilotage data, management d'équipe. Toujours attirée par la partie technique du métier : modélisation, extraction, automatisation. C'est ce fil qui m'a menée au code. | Bootcamp full-stack intensif (fév–juil 2026). React, TypeScript, SQL, Node.js. Python en autodidacte, parce que ça m'intéresse vraiment. **Objectif: me spécialiser dans l'IA avec une alternance dès septembre 2026 (18 mois).** |
 
 ---
 
@@ -43,11 +43,12 @@
 
 | Projet | Description | Stack |
 |---|---|---|
+| [**WanderMind**](https://github.com/ColineRbm/wandermind) | Chatbot conseiller voyage IA — 4 profils voyageurs, prompt engineering, mémoire de session | Python · Flask · React · Groq API |
 | [**Kapsul**](https://github.com/ColineRbm/Kapsul) | App de suivi budgétaire personnelle — dark mode, responsive, graphiques | JS vanilla · Chart.js · localStorage |
-| [**ERA**](https://github.com/ColineRbm/ERA) | Hackathon 48h — app de voyage historique · j'ai développé le composant Timeline | React · TypeScript · Vite |
+| [**ERA**](https://github.com/ColineRbm/ERA) | Hackathon 48h — app de voyage historique | React · TypeScript · Vite |
 | [**TeamUp-front**](https://github.com/ColineRbm/TeamUp-front) | Projet de groupe — app pour trouver des partenaires sportifs | React · TypeScript |
 | [**TeamUp-back**](https://github.com/ColineRbm/TeamUp-back) | Projet de groupe — API REST pour TeamUp | Node.js · MySQL |
-| [**Portfolio**](https://colinerbm.github.io/portfolio/) | Mon portfolio — en cours de développement | React · TypeScript |
+| [**Portfolio**](https://colinerbm.github.io/portfolio/) | Mon portfolio | React · TypeScript |
 
 ---
 
