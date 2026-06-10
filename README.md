@@ -43,11 +43,11 @@
 
 | Projet | Description | Stack |
 |---|---|---|
-| [**WanderMind**](https://github.com/ColineRbm/wandermind) | Chatbot conseiller voyage IA — 4 profils voyageurs, prompt engineering, mémoire de session | Python · Flask · React · Groq API |
-| [**Kapsul**](https://github.com/ColineRbm/Kapsul) | App de suivi budgétaire personnelle — dark mode, responsive, graphiques | JS vanilla · Chart.js · localStorage |
-| [**ERA**](https://github.com/ColineRbm/ERA) | Hackathon 48h — app de voyage historique | React · TypeScript · Vite |
-| [**TeamUp-front**](https://github.com/ColineRbm/TeamUp-front) | Projet de groupe — app pour trouver des partenaires sportifs | React · TypeScript |
-| [**TeamUp-back**](https://github.com/ColineRbm/TeamUp-back) | Projet de groupe — API REST pour TeamUp | Node.js · MySQL |
+| [**Octet**](https://github.com/ColineRbm/octet) | App de gestion d'une ressourcerie numérique — collecte, diagnostic, réparation, redistribution de matériel. Auth JWT + Argon2, deux rôles admin/bénévole. Projet solo certif RNCP. | React · TypeScript · Express · MySQL · MongoDB |
+| [**Le Local**](https://github.com/ColineRbm/le-local) | Projet de groupe — gestion d'un tiers-lieu : réservation d'espaces, inscription à des événements, interface admin. | React · TypeScript · Express · MySQL |
+| [**TeamUp**](https://github.com/ColineRbm/TeamUp-front) | Projet de groupe — app pour trouver des partenaires sportifs près de chez soi. | React · TypeScript · Express · MySQL |
+| [**Kapsul**](https://github.com/ColineRbm/Kapsul) | App de suivi budgétaire — dark mode, responsive, graphiques | JS vanilla · Chart.js |
+| [**ERA**](https://github.com/ColineRbm/ERA) | Hackathon 48h — app de voyage historique | React · TypeScript |
 | [**Portfolio**](https://colinerbm.github.io/portfolio/) | Mon portfolio | React · TypeScript |
 
 ---
