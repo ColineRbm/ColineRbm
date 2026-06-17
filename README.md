@@ -47,14 +47,13 @@
 | Projet | Description | Stack |
 |---|---|---|
 | [**Octet**](https://github.com/ColineRbm/octet) | App de gestion d'une ressourcerie numérique — collecte, diagnostic, réparation, redistribution de matériel. Auth JWT + Argon2, deux rôles admin/bénévole. Projet solo certif RNCP. | React · TypeScript · Express · MySQL · MongoDB |
-| [**Macro Dashboard Europe**](https://github.com/ColineRbm/macro-dashboard-europe) | Analyse de l'inflation européenne 2020-2025 — Pandas, graphiques interactifs, dashboard déployé. | Python · Pandas · Plotly · Streamlit |
+| [**Macro Dashboard Europe**](https://github.com/ColineRbm/macro-dashboard-europe) · [🔗 live](https://macro-dashboard-europe.streamlit.app) | Analyse de l'inflation européenne 2020-2025 — Pandas, graphiques interactifs, dashboard déployé. | Python · Pandas · Plotly · Streamlit |
 | [**WanderMind**](https://github.com/ColineRbm/wandermind) · [🔗 live](https://wandermind-h1ug.onrender.com) | Conseiller voyage IA — profil voyageur + recommandations personnalisées via prompt engineering et LLaMA 3.3. | Python · Flask · React · Groq API |
 | [**Le Local**](https://github.com/ColineRbm/le-local) | Projet de groupe — gestion d'un tiers-lieu : réservation d'espaces, inscription à des événements, interface admin. | React · TypeScript · Express · MySQL |
 | [**TeamUp**](https://github.com/ColineRbm/TeamUp-front) | Projet de groupe — app pour trouver des partenaires sportifs près de chez soi. | React · TypeScript · Express · MySQL |
 | [**Kapsul**](https://github.com/ColineRbm/Kapsul) | App de suivi budgétaire — dark mode, responsive, graphiques | JS vanilla · Chart.js |
 | [**ERA**](https://github.com/ColineRbm/ERA) | Hackathon 48h — app de voyage historique | React · TypeScript |
-| [**Portfolio**](https://colinerbm.github.io/portfolio/) | Mon portfolio | React · TypeScript |
-
+| [**Portfolio**](https://github.com/ColineRbm/portfolio) · [🔗 live](https://colinerbm.github.io/portfolio/) | Mon portfolio | React · TypeScript |
 ---
 
 ## Me contacter
