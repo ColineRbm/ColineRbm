@@ -1,15 +1,15 @@
-# Coline — Développeuse full-stack
+# Coline — Développeuse Full Stack | Applications IA & Agents IA 🌀
 
-> Profil hybride **finance × tech** · En formation @ Wild Code School · Lille, France
+> Profil hybride **finance × tech** · En alternance · Formation @ Simplon · Lille, France
 
 ---
 
 ## Avant → Maintenant
-
+ 
 | Avant | Maintenant |
 |---|---|
-| 9 ans en analyse financière & data au sein du **Groupe Crédit Agricole** — ratios prudentiels (Bâle III, COREP/LDT), consolidation, pilotage data, management d'équipe. Toujours attirée par la partie technique du métier : modélisation, extraction, automatisation. C'est ce fil qui m'a menée au code. | Bootcamp full-stack intensif (fév–juil 2026). React, TypeScript, SQL, Node.js. Python en autodidacte, parce que ça m'intéresse vraiment. **Objectif: me spécialiser dans l'IA avec une alternance dès septembre 2026 (18 mois).** |
-
+| 9 ans en analyse financière & data au sein du **Groupe Crédit Agricole** — ratios prudentiels (Bâle III, COREP/LDT), consolidation, pilotage data, management d'équipe. Toujours attirée par la partie technique du métier : modélisation, extraction, automatisation. C'est ce fil qui m'a menée au code. | Bootcamp full-stack intensif (fév–juil 2026) : React, TypeScript, SQL, Node.js — titre RNCP Développeur Web et Web Mobile. **Depuis l'automne 2026, en alternance** pour préparer le titre **Développeur en Intelligence Artificielle et IA Agentique** (Simplon, 1 semaine d'école / 3 semaines en entreprise). Python et agents IA en montée en puissance 🪼 |
+ 
 ---
 
 ## Stack
@@ -62,4 +62,4 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://colinerbm.github.io/portfolio/)
 [![Gmail](https://img.shields.io/badge/coline.rbm@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:coline.rbm@gmail.com)
 
-*Disponible pour une alternance à partir du 15 septembre 2026 · Lille · Bordeaux · Lyon · Marseille · Porto/Lisboa (Portugal) · remote envisageable*
+*En alternance (Simplon) · Full remote · Ouverte aux échanges autour de l'IA, des agents et du croisement finance × tech*
